@@ -5,7 +5,9 @@
 npm install
 ```
 ### run db.json
+```
 json-server --watch db.json
+```
 
 ### Compiles and hot-reloads for development
 ```
